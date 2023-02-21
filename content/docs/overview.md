@@ -164,7 +164,7 @@ Every Odin program is made up of packages. Programs begin running in the package
 
 ### `import` statement
 
-The following program imports the the `fmt` and `os` packages from the `core` library collection.
+The following program imports the `fmt` and `os` packages from the `core` library collection.
 
 ```odin
 package main
